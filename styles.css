@@ -1,0 +1,21 @@
+body {
+  background-color: #95bdd1;
+  
+}
+.name {
+  text-align: center;
+  font-family: Arial;
+  font-weight: bold;
+  color:rgb(25, 73, 73);
+  display: block;
+  background: transparent;
+}
+.summary {
+  text-align: center;
+  text-decoration: underline;
+  display: block;
+  color: rgb(25, 73, 73);
+}
+.hr1 {
+  background-color: black;
+}
